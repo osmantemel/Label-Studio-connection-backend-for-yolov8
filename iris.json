@@ -1,0 +1,75 @@
+[
+    {
+      "data": {
+        "image": "http://localhost:8000/iris_images/iris1.jpg"
+      },
+      "annotations": [],
+      "predictions": []
+    },
+    {
+        "data": {
+          "image": "http://localhost:8000/iris_images/iris2.jpg"
+        },
+        "annotations": [],
+        "predictions": []
+      },
+      {
+        "data": {
+          "image": "http://localhost:8000/iris_images/iris3.jpg"
+        },
+        "annotations": [],
+        "predictions": []
+      },
+      {
+        "data": {
+          "image": "http://localhost:8000/iris_images/iris4.jpeg"
+        },
+        "annotations": [],
+        "predictions": []
+      },
+      {
+        "data": {
+          "image": "http://localhost:8000/iris_images/iris5.jpg"
+        },
+        "annotations": [],
+        "predictions": []
+      },
+      {
+        "data": {
+          "image": "http://localhost:8000/iris_images/iris6.jpeg"
+        },
+        "annotations": [],
+        "predictions": []
+      },
+      {
+        "data": {
+          "image": "http://localhost:8000/iris_images/iris7.webp"
+        },
+        "annotations": [],
+        "predictions": []
+      },
+      {
+        "data": {
+          "image": "http://localhost:8000/iris_images/iris8.jpeg"
+        },
+        "annotations": [],
+        "predictions": []
+      },
+      {
+        "data": {
+          "image": "http://localhost:8000/iris_images/iris9.jpg"
+        },
+        "annotations": [],
+        "predictions": []
+      },
+      {
+        "data": {
+          "image": "http://localhost:8000/iris_images/iris10.jpeg"
+        },
+        "annotations": [],
+        "predictions": []
+      }
+    
+
+  ]
+  
